@@ -1,0 +1,6 @@
+D:\TFS\A51\Nueva carpeta\ConsoleAppA51\ConsoleAppA51\bin\Debug\ConsoleAppA51.exe.config
+D:\TFS\A51\Nueva carpeta\ConsoleAppA51\ConsoleAppA51\bin\Debug\ConsoleAppA51.exe
+D:\TFS\A51\Nueva carpeta\ConsoleAppA51\ConsoleAppA51\bin\Debug\ConsoleAppA51.pdb
+D:\TFS\A51\Nueva carpeta\ConsoleAppA51\ConsoleAppA51\obj\Debug\ConsoleAppA51.csprojAssemblyReference.cache
+D:\TFS\A51\Nueva carpeta\ConsoleAppA51\ConsoleAppA51\obj\Debug\ConsoleAppA51.exe
+D:\TFS\A51\Nueva carpeta\ConsoleAppA51\ConsoleAppA51\obj\Debug\ConsoleAppA51.pdb
